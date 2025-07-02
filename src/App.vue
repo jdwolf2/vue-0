@@ -268,4 +268,7 @@ watch([startDate, stopDate, isAuthenticated], async ([start, stop, authed]) => {
   text-align: left;
   letter-spacing: 0.01em;
 }
+body {
+  background-color: rgb(0, 0, 0);
+}
 </style>
